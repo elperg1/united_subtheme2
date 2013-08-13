@@ -1,0 +1,2034 @@
+
+@font-face {
+	font-family: 'Conv_ClanOT-Bold';
+	src: url('fonts/ClanOT-Bold.eot');
+	src: local('☺'), url('fonts/ClanOT-Bold.woff') format('woff'), url('fonts/ClanOT-Bold.ttf') format('truetype'), url('fonts/ClanOT-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-BoldItalic';
+	src: url('fonts/ClanOT-BoldItalic.eot');
+	src: local('☺'), url('fonts/ClanOT-BoldItalic.woff') format('woff'), url('fonts/ClanOT-BoldItalic.ttf') format('truetype'), url('fonts/ClanOT-BoldItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-Book';
+	src: url('fonts/ClanOT-Book.eot');
+	src: local('☺'), url('fonts/ClanOT-Book.woff') format('woff'), url('fonts/ClanOT-Book.ttf') format('truetype'), url('fonts/ClanOT-Book.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-BookItalic';
+	src: url('fonts/ClanOT-BookItalic.eot');
+	src: local('☺'), url('fonts/ClanOT-BookItalic.woff') format('woff'), url('fonts/ClanOT-BookItalic.ttf') format('truetype'), url('fonts/ClanOT-BookItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-ExtdBold';
+	src: url('fonts/ClanOT-ExtdBold.eot');
+	src: local('☺'), url('fonts/ClanOT-ExtdBold.woff') format('woff'), url('fonts/ClanOT-ExtdBold.ttf') format('truetype'), url('fonts/ClanOT-ExtdBold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-ExtdBoldItalic';
+	src: url('fonts/ClanOT-ExtdBoldItalic.eot');
+	src: local('☺'), url('fonts/ClanOT-ExtdBoldItalic.woff') format('woff'), url('fonts/ClanOT-ExtdBoldItalic.ttf') format('truetype'), url('fonts/ClanOT-ExtdBoldItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-ExtdBook';
+	src: url('fonts/ClanOT-ExtdBook.eot');
+	src: local('☺'), url('fonts/ClanOT-ExtdBook.woff') format('woff'), url('fonts/ClanOT-ExtdBook.ttf') format('truetype'), url('fonts/ClanOT-ExtdBook.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-ExtdBookItalic';
+	src: url('fonts/ClanOT-ExtdBookItalic.eot');
+	src: local('☺'), url('fonts/ClanOT-ExtdBookItalic.woff') format('woff'), url('fonts/ClanOT-ExtdBookItalic.ttf') format('truetype'), url('fonts/ClanOT-ExtdBookItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-ExtdMedium';
+	src: url('fonts/ClanOT-ExtdMedium.eot');
+	src: local('☺'), url('fonts/ClanOT-ExtdMedium.woff') format('woff'), url('fonts/ClanOT-ExtdMedium.ttf') format('truetype'), url('fonts/ClanOT-ExtdMedium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-ExtdMediumItalic';
+	src: url('fonts/ClanOT-ExtdMediumItalic.eot');
+	src: local('☺'), url('fonts/ClanOT-ExtdMediumItalic.woff') format('woff'), url('fonts/ClanOT-ExtdMediumItalic.ttf') format('truetype'), url('fonts/ClanOT-ExtdMediumItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-ExtdNews';
+	src: url('fonts/ClanOT-ExtdNews.eot');
+	src: local('☺'), url('fonts/ClanOT-ExtdNews.woff') format('woff'), url('fonts/ClanOT-ExtdNews.ttf') format('truetype'), url('fonts/ClanOT-ExtdNews.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-ExtdNewsItalic';
+	src: url('fonts/ClanOT-ExtdNewsItalic.eot');
+	src: local('☺'), url('fonts/ClanOT-ExtdNewsItalic.woff') format('woff'), url('fonts/ClanOT-ExtdNewsItalic.ttf') format('truetype'), url('fonts/ClanOT-ExtdNewsItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-Medium';
+	src: url('fonts/ClanOT-Medium.eot');
+	src: local('☺'), url('fonts/ClanOT-Medium.woff') format('woff'), url('fonts/ClanOT-Medium.ttf') format('truetype'), url('fonts/ClanOT-Medium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-MediumItalic';
+	src: url('fonts/ClanOT-MediumItalic.eot');
+	src: local('☺'), url('fonts/ClanOT-MediumItalic.woff') format('woff'), url('fonts/ClanOT-MediumItalic.ttf') format('truetype'), url('fonts/ClanOT-MediumItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-News';
+	src: url('fonts/ClanOT-News.eot');
+	src: local('☺'), url('fonts/ClanOT-News.woff') format('woff'), url('fonts/ClanOT-News.ttf') format('truetype'), url('fonts/ClanOT-News.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Conv_ClanOT-NewsItalic';
+	src: url('fonts/ClanOT-NewsItalic.eot');
+	src: local('☺'), url('fonts/ClanOT-NewsItalic.woff') format('woff'), url('fonts/ClanOT-NewsItalic.ttf') format('truetype'), url('fonts/ClanOT-NewsItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+/* reset */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	/* font: inherit; */
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* Styles of United Fleet */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Lato Hairline'), local('Lato-Hairline'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/Kom15zUm24dIPfIRiNogNuvvDin1pK8aKteLpeZ5c0A.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Lato Light'), local('Lato-Light'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/kcf5uOXucLcbFOydGU24WALUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://themes.googleusercontent.com/static/fonts/lato/v6/qIIYRU-oROkIk8vfvxw6QvesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+
+
+html{
+min-height: 100%;
+background-color: #62a9e3;
+width: 100%;
+}/* make sure it is at least as tall as the viewport */
+
+body{
+height:100%;
+	font-family: 'Conv_ClanOT-Book','Lato', Arial, sans-serif;
+	font-weight:normal;
+}
+ul, menu, dir {
+	list-style-type:none;
+display: block;
+
+-webkit-margin-before:  0px;
+-webkit-margin-after:  0px;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+-webkit-padding-start: 0px;
+}
+table {
+display: table;
+border-collapse: separate;
+border-spacing: 0px;
+border: none;
+}
+.menu-Guide{
+	background-image: url("../images/menu-guide.gif");
+	padding-left: 77px;
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 90px;
+	}
+#home-wrap{
+	background: url('../images/747 HI-res-NEW-Fleet-page-Silo_mg_with_bkg.jpg') no-repeat left -50px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height:800px;
+	top: 0px;
+	margin-top: 0px;
+}
+#landing-wrap{
+	background: url(../images/aircraft-landing.jpg) no-repeat left -155px;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 800px;
+top: 0px;
+margin-top: 0px;
+}
+.rapper{	
+	width: 100%;
+	height:100%;
+	position:absolute;
+    top:90px;
+    bottom:0;
+    left:0;
+    right:0;
+    overflow:hidden;
+    z-index:-1
+}
+#navigation{
+	display:none;
+	}
+#overview-wrap{
+	background:none;
+	width: 100%;
+	height: 800px;
+	color:#002244;
+	
+	position:absolute;
+    top:90px;
+    bottom:0;
+    left:0;
+    right:0;
+    /* overflow:hidden; */
+    z-index:-1
+}
+.breadcrumbs {
+	margin:10px 0 0 80px;
+}
+.breadcrumbs a{
+	color:#75b3e6;
+}
+#home-wrap h1{
+	display: none;
+}
+
+.view-aircraft-landing .views-field-title-1{	
+	color: #002244;
+	font-size: 32px;
+	font-weight: 300;
+	margin: 0 0 74px 0px;
+	padding-top: 65px;
+	width: 698px;
+	
+}
+.page-features h1{
+	color: #002244;
+	font-size: 31px;
+	font-weight: 300;
+	margin: 80px 0 18px 0px;
+	width: 698px;
+	line-height: 27px;
+}
+#block-panels-mini-home-overlays-assembled{
+	z-index: 9;
+	top: 175px;
+	left: 84px;
+	}
+#block-panels-mini-home-blocks, #aircraft_landing_menu{
+	margin:0 0 0 0px;
+	width: 701px;
+	z-index: 2;
+}
+#block-panels-mini-home-blocks .pane-views, #aircraft_landing_menu li{
+	padding: 10px 0 0;
+	margin: 0;
+	width: 140px;
+	vertical-align: top;
+	float: left;
+	height: 130px;
+	background-repeat: no-repeat;
+}
+
+#block-panels-mini-home-blocks .pane-views.white-text:hover, #aircraft_landing_menu a li:hover{
+background-color: #edb72b;
+}
+
+#block-panels-mini-home-blocks .white-text .views-field-name span{
+	margin: 10px 12px;
+	font-weight: 300;
+	font-size: 30px;
+	
+}
+#block-panels-mini-home-blocks .dark-text .views-field-name span{ /* Body type headers */
+	font-weight: 500;
+	font-size: 22px;
+	text-align: left;}
+
+#block-panels-mini-home-blocks .dark-text .views-field-field-fleet-count div {
+	margin-top: 0px;
+	height: 12px;
+	vertical-align: top;
+	position: relative;
+	top: -13px;
+	font-size: 15px;
+}
+#block-panels-mini-home-blocks span.views-field-name{ /* table grid cells header titles*/
+	text-align: left;
+}
+
+#block-panels-mini-home-blocks span.views-field-name-1{
+	font-size:12px;
+	float:left;
+	margin: 12px 0 0 12px;
+}
+
+#global-first .seating-chart{
+	background: url(../images/global-first-seating.png) no-repeat left top;
+	height:306px;	
+}
+#business-first .seating-chart{
+	background: url(../images/business-first.png) no-repeat left top;
+	height:306px;	
+}
+#economy-plus .seating-chart{
+	background: url(../images/economy-plus-seating.png) no-repeat left top;
+	height:306px;	
+}
+#economy-reg .seating-chart{
+	background: url(../images/economy-regular-seating.png) no-repeat left top;
+	height:306px;	
+}
+.content-block{
+	border-top: 1px solid;
+	width: 745px;
+	padding: 0px;
+	margin: 0px 0px 30px;
+}
+.content-block h2{
+	text-align: right;
+	color: #002244;
+	font-size: 19px;
+	font-weight: 300;
+	margin: 10px 0 36px;
+	text-align: right;
+	line-height: 16px;
+}
+.content-block h3{
+	font-size: 15px;
+	color:#77b4e7;
+	font-family: 'Conv_ClanOT-News';
+	margin:0 0 10px;
+
+}
+.content-block ul ul{
+	list-style-type: disc;
+	margin: 0px 0 32px;
+}
+.content-block ul ul li{
+	margin: 20px 10px 0 30px;
+}
+.content-block div.view-header p{
+	color: #62a9e3;
+	font-size: 14px;
+	margin-bottom: 24px;
+}
+.views-field-field-updates-feature{
+	color:#223f5d;
+	margin-bottom:18px;
+	text-decoration: none;
+	font-family:'Conv_ClanOT-Bold';
+}
+ .views-field-field-updates-feature a{
+	color:#223f5d;
+	text-decoration: none;
+}
+.views-field-field-updates-body{
+	color:#223f5d;
+	font-size:11px;
+	margin-bottom: 26px;
+	font-family:'Conv_ClanOT-News';
+	line-height: 1.5em;
+	}
+
+.inner-content{
+	display:block;  
+}
+#fleet-inner-menu h1{
+	color: #ffffff;
+	font-size: 26px;
+	font-weight: normal;
+	margin: 17px 0 38px 30px;
+	font-family: arial, sans-serif;
+}
+#list-planes ul.drop_down li a {
+	text-decoration: none;
+	background:none;
+	border:none!important; 
+ 	color: #fff;
+}
+
+#list-planes ul.drop_down li a:hover,  .views-field-field-updates-feature a:hover {
+	text-decoration: none;
+	background:none;
+	border:none!important; 
+ 	color: #f7b818;
+}
+#features{
+	font-size: 11px;
+}
+.section-features .section{
+	margin: 0 0 0 90px;
+}
+
+div.view-features-menus2-cabin-class-menu{
+	height:32px;
+}
+div.view-features-menus2-cabin-class-menu .ui-widget-header {
+	height:60px;
+}
+div.view-features-menus2-cabin-class-menu .ui-menu:after {
+    content: ".";
+    display: block;
+    clear: both;
+    /* visibility: hidden; */
+    line-height: 0;
+    height: 0;
+}
+
+div.view-features-menus2-cabin-class-menu .ui-menu .ui-menu-item {
+    display: inline-block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+div.view-features-menus2-cabin-class-menu ul{
+    display: inline-block;
+}
+
+#fleet-inner-menu #secondary-menu{
+	margin: 10px;
+	left: 12px!important;
+	background-color: #647d8f;
+	width: 151px;
+	position: relative;
+	top: 0px!important;
+	color:#fff;
+}
+#table-wrap{
+	margin:78px 0 0 80px;
+}
+#center-wrap{
+	margin:0px auto;
+	margin: 0 auto;
+    width: 1090px;
+}
+#fleet_total_top{
+	color: #546B82;
+	font-size: 18px;
+	font-weight: 300;
+	padding: 0 7px;
+	position: absolute;
+	top: 93px;
+	margin-left: 198px;
+}
+#first-time{
+	color: #fff;
+}
+#updateButton{
+	color: #fff;
+	background-color: #ccc;
+	padding: 13px 23px;
+	text-decoration: none;
+	font-size: 14px;
+	position: absolute;
+	top: 88px;
+	margin-left: 568px;
+}
+.grid-nav{
+	border-spacing:none;
+	border-collapse: collapse;
+}
+
+.grid-nav td{
+ /*	border: solid 2px green; */
+	padding:0; margin:0;
+	width:140px;
+	font-weight:normal;
+	font-size:30px;
+	vertical-align: top;
+
+}
+.grid-nav td h2, #fleet-grid h2, #mini-panel-home_overlays_assembled h3{
+ color: #FFFFFF;
+    font-size: 30px;
+    font-weight: 300;
+    margin: 11px;
+    padding: 0;
+}
+#table-wrap td a:hover{
+	text-decoration:none;
+}
+#aircraft_landing_menu h2{
+	font-size: 17px;
+	font-weight: 300;
+	margin: 0px 8px 0px;
+	padding: 0;
+	width: 120px;
+	position: absolute;
+	line-height: 18px;
+}
+
+.grid-nav td h3{
+	margin:0px;
+	padding:0px;
+	font-size:18px;
+	color: #324e69;
+}
+.yellow-bk{
+	background-color:#edb72b;
+}
+.icon{
+	width: 72px;
+	height: 60px;
+	display: block;
+	background-position: 20px 12px;
+	background-repeat: no-repeat;
+	margin: 0px 30px 0px;
+}
+#tabl_{
+	background-image:url("../images/tabletop.png");
+		 background-position:44px 54px;
+	
+}
+#slee_{
+	background-image:url("../images/sleeping.png");
+	 background-position:44px 70px;
+	  
+}
+#infi_{
+		background-image:url("../images/headphones.png");
+		background-position:44px 58px;
+}
+#amen_{
+		background-image:url("../images/amenities.png");
+			 background-position:44px 54px;
+		 
+}
+#lava_{
+		background-image:url("../images/lavatories.png");
+	   	 background-position:44px 54px;
+	
+}
+#airc_{
+		background-image:url("../images/plane-up.png");
+		background-position:46px 54px;
+	
+}
+#gall_{
+		background-image:url("../images/galleys.png");
+	    background-position:44px 54px;
+	 
+}
+#seat_{
+		background-image: url("../images/seating.png");
+	    background-position:48px 54px;
+	   
+}
+#food_{
+		background-image:url("../images/food.png");
+		background-position:44px 60px;
+}
+.grid-nav td h4{
+	margin:0px;
+	padding:0px;
+	font-size:14px;
+}
+.fleet-count{
+	font-size: 12px;
+	position: absolute;
+	margin-bottom: 10px;
+}
+
+.expand-button{
+	background-image: url("../images/expand-corner.png");
+	background-position: 95px 0px;
+	background-repeat: no-repeat;
+	float: right;
+	height: 45px;
+	margin: 65px 0 0 2px;
+	width: 128px;
+	text-align: left;
+	padding: 0px 0px 0 0
+	}
+#aircraft_landing_menu .expand-button{
+	margin: 95px 0 0 2px;
+	}	
+	
+.landing-grid .expand-button{
+margin: 0px 0 0;
+}
+.dark-text{
+	color:#002244;
+	
+}
+.white-text, .white-txt{
+	color:#fff;
+}
+.white-text:hover{
+	cursor: pointer;
+}
+#mini-panel-home_overlays_assembled .inside{
+	margin: 0px;
+}
+
+#fleet-grid td:hover{
+		background-color:#edb72b;
+}
+#fleet-grid td.dark-text:hover{
+	background:none;
+}
+.gray{
+	background-color:#647d8f;
+}
+.ltBlu{
+	background-color:#62a9e3;
+}
+.dkBlu{
+	background-color:#002244;
+}
+.mdBlu{
+	background-color:#003399;
+}
+/* img{
+	display:none !important;
+}
+*/
+#header {
+    margin: 0;
+	width: 100%;
+	height: 90px;
+	background: #039;
+	text-align: center;
+
+}
+#footer .section{
+	margin:0px 20px;
+}
+#footer-text{
+	margin:20px 0px;
+	padding-bottom: 22px;
+}
+#footer-text h3{
+	font-size: 24px;
+	margin: 0 0 10px;
+	font-family: 'Conv_ClanOT-Medium';
+}
+#footer-text h4{
+	font-size: 16px;
+	line-height: 19px;
+	margin: 0 0 8px;
+	width: 358px;
+}
+#footer-text p{
+	font-size: 14px;
+	margin: 0 0 10px;
+	font-weight: bold;
+}
+#sub-text {	
+	margin:150px 0 0;
+}
+#sub-text p{
+	font-size: 12px;	
+}
+
+.follow-link{
+	background-image: url(../images/img_linkarrow_blue.gif);
+	background-repeat: no-repeat;
+	text-decoration: none;
+	color: #000;
+	background-position: 100px 4px;
+	padding: 1px 34px 0 0;
+}
+
+
+#mini-panel-home_overlays_assembled .panel-display{
+	background-color:#edb72b;
+	width:420px;
+	height:280px;
+	 display:block;
+	position: absolute;
+	z-index: 9;
+	
+}
+.view-id-home_overlay ul{
+	float: left;
+	width: 90px;
+	margin: 7px 10px 0 0;
+	padding: 0px;
+}
+.view-id-home_overlay ul li{
+	background: #f7cf50;
+	margin: 0px 0 2px;
+	padding: 4px;
+	color: #fff;
+	font-size: 11px;
+	width: 165px;
+}
+.view-id-home_overlay ul li:hover{
+	background:#fee4a0;
+}
+.view-id-home_overlay ul li a{
+	color: #fff;
+text-decoration: none;
+margin: 0 0 0 8px;
+font-size: 13px;
+}
+.view-id-home_overlay ul li a:hover{
+	text-decoration:none;
+}
+.specs{
+	font-size: 11px;
+width: 320px;
+font-weight: 900;
+margin: 148px 0 0 0;
+}
+.yellowBox .spec-table td{
+	padding: 3px 0 0 0;
+}
+.yellowBox .first-col{
+	width:85px;
+}
+.close{
+	background: url("../images/colapse-corner.png") no-repeat scroll right bottom transparent;
+	height: 35px;
+	margin: 0 0 0 171px;
+	text-indent: -9999px;
+	width: 39px;
+	z-index: 987;
+	margin-top: 86px;
+}
+.view-id-right_margin_menu .views-field-title-1{
+	display: none;	
+}
+div.view-features-menus ul, div.view-features-menus2-cabin-class-menu ul{
+	color: #002244;
+	height: 32px;
+	margin: 0px;
+	
+}
+div.view-features-menus-cabin-class-menu li, div.view-features-menus2-cabin-class-menu li{
+	width: 162px;
+	text-align: center;	
+	background:#7c848a;
+	float:left;
+	border:solid 1px #fff;
+	padding:9px 16px;
+}
+div.view-features-menus2-cabin-class-menu li.active{
+	background:#62a9e3;
+}
+menu, ol, ul, .item-list ul {
+padding: 0 0 0 0px;
+}
+
+#aircraft-class-selection {
+	margin-left: 536px;
+	top: 88px;
+	position: absolute;
+}
+ul#aircraft-class-selection li, div.view-features-menus2-cabin-class-menu li{
+	background-color: #7c848a;
+float: left;
+border: solid 1px #fff;
+padding: 7px 27px 0px 5px;
+font-size: 15px;
+height: 32px;
+position: relative;
+text-align: left;
+max-width: 152px;
+	}
+div.view-features-menus2-cabin-class-menu li:hover{
+	background-color: #edb72b;
+}
+ul#aircraft-class-selection li a, div.view-features-menus2-cabin-class-menu li a{
+	text-decoration: none;
+	color: #fff;
+	position: absolute;
+	top: 25%;
+	text-align: center;
+	width: 177px;
+	font-size: 15px;
+}
+ul#aircraft-class-selection li.ui-state-active{
+	background-color:#62a9e3;
+}
+.ui-corner-left {
+    border-bottom-left-radius: 0px;
+    border-top-left-radius: 0px;
+}
+.ui-widget-content {
+ background:none;
+	border:none;
+}
+ .ui-tabs-vertical { width:85px; }
+.ui-tabs-vertical .ui-tabs-nav { padding: 0px; float: left; }
+.ui-tabs-vertical .ui-tabs-nav li { 
+ 	background-color: #FAD75C;
+	    background-image: none;
+	    border: medium none;
+	    clear: left;
+	    margin: 2px 0;
+	    width: 100%;
+	 }
+	.ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited {
+		color:#fff;			
+	}
+	
+.ui-tabs-vertical .ui-tabs-nav li { 
+display:block; 	font-size: 12px;
+	    padding: 7px; }
+
+.ui-tabs-vertical .ui-tabs-nav li.ui-tabs-active {
+	background-color: #FEE4A0;
+	    border: medium none;
+	    padding-bottom: 0;
+	    padding-right: 0.1em; 
+	padding-bottom: 0; padding-right: .1em; 
+	border:none; 
+	
+		}
+.ui-tabs-vertical .ui-tabs-panel { 
+	float: left;
+	padding: 0px;
+	width: 297px;
+	}
+.ui-tabs-vertical {
+    width: 420px;
+}
+.ui-corner-all {
+    border-radius: 0px;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+	background:none;
+	color:#fff;
+}
+.ui-widget-header {
+	background: none repeat scroll 0 0 transparent;
+	border: medium none;
+	color: #FFFFFF;
+}
+.grayback{
+	font-size: 11px;
+	padding:0px;
+}
+.grayback h4{
+	color: #77b4e7;
+	font-size:12px;
+	padding: 13px 18px;
+}
+
+#two-column-wrap{
+	float:left;
+	width:50%;
+}
+
+tbody {
+border: none;
+}
+table.one-col, table.two-col, table.three-col, table.four-col{
+	margin: 0px;
+	background-color: #e8e8e8;
+	width: 745px;
+	font-family:'Conv_ClanOT-Book';	
+}
+table.two-col{
+	font-size: 12px;
+	padding:0px;
+
+} 
+table.three-col{
+	border-spacing: 0px;
+	float: left;
+	margin: 0 0 30px;
+}
+table.three-col ul{
+	padding:0px !important;
+}
+#features .two-col tr {
+border-bottom: solid 1px #fff;
+height: 15px;
+}
+table.four-col td{
+	vertical-align: top;
+	background-color:#e8e8e8;
+	border-bottom: solid 1px #fff;
+	
+	padding: 5px 0px;
+	
+}
+	table.four-col ul{
+	padding: 0px !important;
+	width: 114px;
+	margin: 4px 0px 0 31px !important;
+	}
+table.three-col td{
+	vertical-align: top;
+	background-color: #e8e8e8;
+	border-bottom: solid 1px #fff;
+	width: 191px;
+	margin: 5px 26px;
+}
+table.two-col td{
+	vertical-align: top;
+	height: 10px;
+	background-color:#e8e8e8;
+	border-bottom: solid 1px #fff;
+
+}
+table.one-col td{
+	vertical-align: top;
+	background-color: #e8e8e8;
+	border-bottom: solid 1px #fff;
+	width: 100%;	
+}
+
+table.one-col td li, table.three-col td li, table.four-col td li{
+	vertical-align: top;
+	color: #002244;
+	font-family:'Conv_ClanOT-Medium';	
+}
+table.four-col td li{
+	width: 149px;
+	padding: 8px 0px;
+	margin: 0px !important;
+
+}
+table.three-col td li{
+	width: 203px;
+	padding: 8px 0px;
+	margin: 0px 33px !important;
+}
+table.two-col td li{
+	width: 330px;
+	padding: 8px 0px;
+	margin: 0px !important;
+
+}
+table.one-col td li{
+	width: 645px;
+	padding: 8px 0px;
+	margin: 0px !important;
+
+}
+table.one-col h4 {
+	color: #223f5d;
+	border: none;
+	font-family:'Conv_ClanOT-Medium';
+	padding:10px;
+}
+table.two-col h4 {
+	color: #223f5d;
+	border: none;
+	font-family:'Conv_ClanOT-Medium';
+	padding:0px;
+}
+table.three-col h4 {
+	color: #77b4e7;
+	font-size: 12px;
+	padding: 13px 18px 1px;
+	line-height: 23px;
+}
+table.four-col h4 {
+	color: #77b4e7;
+	font-size: 12px;
+	padding: 13px 18px 11px;
+	line-height: 23px;
+	font-family:'Conv_ClanOT-Medium';
+
+}
+
+
+
+.grayback .views-field-field-cabin-class-name{
+	font-size:18px;	
+}
+
+/* food and bev */
+.food-bev-overview{
+	background-color: #fff;
+}
+td.views-field-field-beverage-menus{
+
+}
+td.views-field-field-beverage-menus p{
+	color: #77b4e7;
+	font-size: 11px;
+	padding: 12px 0px 10px;
+	border-bottom: solid 1px #fff;
+	font-family:'Conv_ClanOT-News';
+
+}
+td.views-field-field-beverage-menus ul{
+	margin:10px;
+}
+.views-field views-field-field-special-menus ul{
+	margin:10px;
+}
+.views-field-field-tabletop p{
+	padding: 0px ;
+	width: 250px;
+	float: left;
+}
+.views-field-field-tabletop ul{
+	padding: 0px ;
+	width: 250px;
+	float: left;
+}
+.clear-float{
+	clear:both;
+}
+.feed-icon{
+	display:none;
+}
+.first-col{
+	width: 130px;
+	padding: 15px 19px;
+
+}
+.second-col{
+	width: 135px;
+	padding: 15px 0px;
+}
+.third-col{
+	width: 135px;
+	padding: 15px 0px;
+}
+.fourth-col{
+	width: 135px;
+	padding: 15px 0px;
+}
+#aircraft-specs .third-col{
+	width: 165px;
+}
+#aircraft-specs .fourth-col{
+	width: 165px;
+}
+#mini-panel-home_overlays_assembled{
+	position:absolute;
+}
+#mini-panel-787_home_overlay{
+  	margin: 0 136px;
+	background-image:url(../images/AIRCRAFT/787.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 207px;
+	margin-left: 140px;
+	}
+
+	
+#mini-panel-777_home_overlay{
+	background-image: url(../images/AIRCRAFT/777.png);
+	background-position: 172px 15px;
+	background-repeat: no-repeat;
+	background-size: 220px;
+	margin-top: 207px;
+	margin-left: 140px;
+				}
+#mini-panel-767_home_overlay{
+	background-image:url(../images/AIRCRAFT/767.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 207px;
+	margin-left: 280px;
+				}
+#mini-panel-747_home_overlay{
+	background-image:url(../images/AIRCRAFT/747.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 207px;
+	margin-left: 280px;
+				}
+#mini-panel-a319_home_overlay, #mini-panel-a320_home_overlay{
+	background-image:url(../images/AIRCRAFT/A319_A320.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 207px;
+	margin-left: 140px;
+				}
+#mini-panel-737_home_overlay{
+	background-image:url(../images/AIRCRAFT/737.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 207px;
+	margin-left: 280px;
+				}
+#mini-panel-757_home_overlay{
+	background-image:url(../images/AIRCRAFT/757.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 207px;
+	margin-left: 280px;
+				}				
+#mini-panel-e_jets_home_overlay{
+	background-image:url(../images/AIRCRAFT/E70.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 347px;
+	margin-left: 140px;								
+}
+#mini-panel-crjs_home_overlay{
+	background-image:url(../images/AIRCRAFT/CRJ200_700.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 347px;
+	margin-left: 140px;							
+}
+
+#mini-panel-erj_home_overlay{
+	background-image:url(../images/AIRCRAFT/E145_E135.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 347px;
+	margin-left: 280px;								
+}
+#mini-panel-prop_home_overlay{
+	background-image:url(../images/AIRCRAFT/PROP-Q200.png);
+	background-position:172px 15px; 
+	background-repeat:no-repeat;
+	background-size: 220px;
+	margin-top: 347px;
+	margin-left: 280px;	
+}
+#features_menu{
+	color: #62A9E3;
+	height: 806px;
+	margin-left: 265px;
+	position: absolute;
+	top: 134px;
+	width: 228px;
+	border: none;
+	outline: none;
+}
+.page-features-overview-77y #features_menu, .page-features-seats-77y #features_menu{
+	display: none;
+}
+#features table p{
+	color:#002244;
+	font-family: 'Conv_ClanOT-News';
+	margin: 0 0 15px;
+}	
+#features table ul{
+	list-style: disc;
+	padding: 5px 30px 6px 26px;
+	font-family: 'Conv_ClanOT-News';
+}
+	
+#features table li{
+	margin:0 0 30px;
+	line-height: 1.5em;
+}
+
+
+/*  !!! _menu !!! */
+#features_menu a{
+	color: #000;
+	text-decoration: none;
+	}
+#features_menu li{
+	margin-bottom:15px;
+	width:222px;
+}
+#features_menu li.active {
+	border: none;
+	background: url(../images/carat-ltBlu.png) 5px 6px;
+	background-repeat: no-repeat;
+	padding: 0 22px;
+	color: #62a9e3;
+	
+}
+#features_menu a li{
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    color: #002244;
+	font-size:16px;
+	font-family: 'Conv_ClanOT-Book';
+	
+}
+#features_menu li:hover {
+	color:#62a9e3;
+}
+#block-menu-menu-left-margin-menu ul.menu{ /* Main Nav */
+	left: 0;
+	position: absolute;
+	top: 1px;
+	width: 40px;
+	background-color: #62a9e3;
+	height: 101%;
+	outline: none;
+	padding-top: 48px;
+	z-index: 12;
+
+}
+
+#block-menu-menu-left-margin-menu ul.menu li a:active{ /* Main Nav */
+text-indent: -9999px;
+
+}
+#block-menu-menu-left-margin-menu ul li{ /* Main Nav list items */
+	text-indent: -9999px;
+	border-top: solid 1px #fff;
+	cursor: pointer;
+}
+#list-email{ /* Main Nav list items */	
+	border-bottom: solid 1px #fff;
+}
+
+#list-planes ul{ /* First Sublevel Flyout */
+	background-color: #647d8f;
+	width: 200px;
+	position:absolute;
+	height: 700px;
+	margin: 0 0 0 40px;
+	
+}
+#list-planes ul li{ /* Main Nav list items */
+	text-indent: 0px;
+	margin: 16px;
+	color: #fff;
+	font-weight: 100;
+}
+
+#ui-id-2 li{
+	text-indent: 0px
+	}
+#list-planes ul.drop_down{ /* Second Sublevel Dropdown  max-height: 52px;*/
+	margin: 0 0 10px 8px;
+	color: #fff;	
+	background: none;
+	position: relative;
+	left: 1px !important;
+	top: 0px !important;
+	max-height: 54px;
+	padding: 5px;
+	width: 150px!important;
+
+	
+}
+#list-planes ul.drop_down li{ /* Second Sublevel Dropdown  max-height: 52px;*/
+	margin: 0 0 7px 8px;
+	color: #fff;
+	font-weight: 500;
+	font-size: 14px;
+	background: none;
+	position: relative;
+	max-height: 64px;
+	padding: 0;
+}
+#list-accordion ul li {
+	width:233px;
+}
+
+a , li {outline:none;}
+
+
+#fleet-inner-menu .ui-state-active, #fleet-inner-menu .ui-state-focus{
+	color: #fff;
+	font-weight:500;
+	background: none;
+	}
+	
+#secondary-menu .ui-menu-item{
+		margin: 0 0 5px 22px;
+		color: #fff;
+		font-weight:500;
+		font-size: 14px;
+		background: none;
+	}
+#secondary-menu .ui-state-active, #secondary-menu .ui-state-focus{
+		color: #edb72b;
+		background: none;
+		}
+.ui-widget-content a{
+	color: #fff;
+	border:none;
+	background: none;
+	text-decoration: none;
+}
+
+.toolpiece{
+	height:60px;
+	background-repeat:no-repeat;
+
+	width: 100%;
+	border-bottom:solid 1px #fff;
+}
+.toolpiece:hover;{
+	background-color:#647d8f;
+}
+
+
+.config-menu ul li.activeConfig{
+	background: #fff url("../images/arrow-dropdown.gif") no-repeat scroll 84px 6px;
+	display: block;
+	padding-right: 20px;
+	border: 1px solid #62a9e3;
+	width: 100px;
+	padding: 5px;
+	color: #002244;
+}
+.config-menu ul:hover li{
+	background: none;
+}
+.config-menu ul{
+	width: 100px;
+	margin: 0 0 0 632px !important;
+	position: absolute;
+	top: 82px;
+}
+
+.config-menu ul li{
+	background: #fff;
+	padding-right: 20px;
+	border: 1px solid #62a9e3;
+	width: 100px;
+	padding: 5px;
+    display: none;
+}
+.config-menu ul li a{
+	color:#002244;
+	text-decoration: none;
+}
+.config-menu ul li:hover{
+	background: #51abe4;	     
+}
+.config-menu ul li:hover a{
+	color:#FFF;
+	text-decoration: none;
+}
+.show{
+	display:block !important;
+	}
+#features div.views-field.views-field-title-1{
+	display:none;
+	}
+	
+
+#list-planes{
+	background-image:url("../images/plane.gif");
+		background-position:3px 16px; 
+		height: 60px;
+		width: 39px;
+		background-repeat: no-repeat;
+		
+}
+#planes span{
+		display:none;
+}
+
+/*  Define the triggers of left Nav  */
+#block-menu-menu-left-margin-menu ul.menu li.expanded ul.menu{
+        display: none;
+    }
+
+ #block-menu-menu-left-margin-menu ul.menu li.show_children ul.menu{
+        display: block;
+    }
+  #list-planes ul li.show_children, #planes ul.menu li:hover{
+        color:#edb72b;
+    }
+    
+#block-menu-menu-left-margin-menu ul.menu li.show_children ul.menu li.expanded  ul.drop_down{
+        display: none !important;
+    }
+
+#block-menu-menu-left-margin-menu ul.menu li.show_children ul.menu li.expanded.show_children ul.drop_down{
+        display: block !important;
+    }
+    
+       
+#block-menu-menu-left-margin-menu ul.menu ul.menu{
+	background-color: #647d8f;
+	width: 200px;
+	position: absolute;
+	left: 40px;
+	margin: -2px -2px;
+	height: 100%;
+	list-style-type: none;
+	z-index: 12;
+}
+#block-menu-menu-left-margin-menu ul.menu ul.menu.drop_down{
+	background-color: #647d8f;
+	position: relative;
+	left: 4px;
+	margin: 6px 2px;
+	height:100%;
+	max-height: 200px;
+	list-style-type: none;
+}
+
+#list-planes ul li{
+	background-color: #647d8f;
+	border:none;
+	cursor: pointer;
+	list-style-type: none;
+	list-style-image: none;
+	
+}
+#list-planes:hover{
+	background-image: url("../images/plane-active.png");
+	background-position: 3px 16px;
+	background-color: #647d8f;
+	height: 60px;
+	width: 40px;
+	padding: 0px;
+	margin-top: 0px;
+	background-repeat: no-repeat;
+}
+#list-search{
+	background-image:url("../images/search.gif");
+		background-position:3px 18px;
+		height: 60px;
+	width: 39px;
+	background-repeat: no-repeat; 	
+}
+#list-print{
+	background-image:url("../images/print.gif");
+		background-position:5px 18px;
+		height: 60px;
+	width: 39px; 
+	background-repeat: no-repeat;	
+}
+#list-email{
+	background-image:url("../images/email.gif");	
+	background-position:5px 18px; 
+	height: 60px;
+	width: 39px;
+	background-repeat: no-repeat;
+}
+
+/* admin styles */
+.admin-menu #content {
+	position: relative;
+	left: 100px;
+}
+.sidebar-first #content {
+width: 900px;
+}
+
+.block { /* Block wrapper */
+  margin-bottom: 0px;
+}
+
+h2.block-title { /* Block title */
+color: #002244;
+font-size: 32px;
+font-weight: 300;
+margin: 0 0 78px 0px;
+padding-top: 65px;
+width: 698px;
+font-family: 'Conv_ClanOT-Book';
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+#page {
+	max-width: 100%;
+}
+
+/*
+ * The skip-link link will be completely hidden until a user tabs to the link.
+ * See the element-focusable rule in system.base.css.
+ */
+
+#skip-link {
+  margin: 0;
+}
+#skip-link a,
+#skip-link a:visited {
+  display: block;
+  width: 100%;
+  padding: 2px 0 3px 0;
+  text-align: center;
+  background-color: #666;
+  color: #fff;
+}
+
+/*
+ * Header
+ */
+
+#header {
+	color:#fff;
+}
+
+#logo { /* Wrapping link for logo */
+  margin: 30px 38px 0;
+padding: 0;
+background: url("../images/logo-large.gif") no-repeat left top;
+width: 321px;
+height: 43px;
+position: absolute;
+}
+#logo img {
+  vertical-align: bottom;
+}
+
+#site-name { /* Wrapper for website name */
+  	float: right;
+	margin: 50px -194px;
+	right: 44px;
+	font-size: 22px;
+	font-weight: 300;
+	text-align: right;
+	}
+
+#link-to-branding { /* link to branding	 website */
+  	margin: 0;
+	font-size: 14px;
+	background-color:#51abe4;
+	width: 124px;
+	float: right;
+	padding: 5px 10px;
+	margin: 0 34px 0;
+	
+	
+	}
+#link-to-branding a:link,
+#link-to-branding a:visited {
+  color: #000;
+  text-decoration: none;
+}
+#link-to-branding a:hover,
+#link-to-branding a:focus {
+  text-decoration: underline;
+}
+
+#site-slogan { /* The slogan (or tagline) of a website */
+  margin: 0;
+  font-size: 1em;
+}
+
+.region-header { /* Wrapper for any blocks placed in the header region */
+  clear: both; /* Clear the logo */
+}
+
+/*
+ * Main (container for everything else)
+ */
+
+#main {
+	padding-top: 0px;
+	background-color: #fff;
+}
+#main p{
+	color:#4e667d;
+	font-size: 11px;
+}
+#secondary-menu{
+	left: 1106px;
+	position: absolute;
+}
+/*
+ * Content
+ */
+
+#home-wrap #content {
+	margin: 0 auto;
+	width: 700px;
+	float: none;
+}
+#landing-wrap #content.column {
+	margin: 0 auto;
+	width: 700px;
+	float: none;
+}
+.section-features #content{
+	margin: 0 auto;
+	width: 1080px;
+	float: none;
+	background-color: #fff;	
+	min-height: 722px;
+}
+
+.sticky-table td{
+	padding:11px;
+}
+dt{
+	margin: 22px 0 6px !important;
+}
+
+.region-highlighted {
+
+}
+
+#breadcrumb{
+	margin: 0px auto;
+	width: 880px;
+}
+.breadcrumb{ 	
+	position: absolute;
+	top: 102px;
+	margin: 0px auto;
+	z-index: 3;
+	color: #75b3e6;
+	font-size: 12px;
+	width: 900px;
+ 
+}
+.breadcrumb a { 	
+	color: #75b3e6;
+	font-size: 12px;
+	text-decoration: none;
+}
+
+
+h3.title { /* Comment title */
+  margin: 0;
+}
+
+
+div.messages { /* Important messages (status, warning, and error) for the user. See also the declarations in messages.css. */
+  margin: 1.5em 0; /* Drupal core uses "6px 0" margin */
+}
+div.messages ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+ul.inline { /* List of links generated by theme_links() */
+  display: inline;
+  padding: 0;
+}
+ul.inline li {
+  display: inline;
+  list-style-type: none;
+  padding: 0 1em 0 0; /* LTR */
+}
+
+span.field-label { /* The inline field label used by the Fences module */
+  padding: 0 1em 0 0; /* LTR */
+}
+
+.item-list .pager { /* A list of page numbers when more than 1 page of content is available */
+  padding: 0;
+}
+.item-list .pager li { /* Each page number in the pager list */
+  padding: 0 0.5em;
+}
+
+.feed-icon { /* The link to the RSS or Atom feed for the current list of content */
+}
+
+.more-link { /* Aggregator, blog, and forum more link */
+}
+
+/*
+ * First sidebar (on left in LTR languages, on right in RTL)
+ *
+ * Remember to NOT add padding or margin to your .region-sidebar-first
+ * (see the layout.css file.)
+ */
+
+#sidebar-first {
+	left: 0;
+	position: absolute;
+	margin: 0px 0px;
+	width: 40px;
+	
+	height: 97%;
+	top: 1px;
+}
+#main-wrapper{
+
+}
+
+/*
+ * Second sidebar (on right in LTR languages, on left in RTL)
+ *
+ * Remember to NOT add padding or margin to your .region-sidebar-second
+ * (see the layout.css file.)
+ */
+
+.region-sidebar-second {
+	top: 141px;
+	margin: 0 auto 0 876px;
+	width: 122px;
+	position: absolute;
+}
+
+/*
+ * Footer
+ */
+div#header div.section.clearfix {
+	margin: 0 0 0 90px;
+}
+
+div#footer {
+background-color: #62a9e3;
+height: 200px;
+z-index: 14;
+position: absolute;
+width: 100%;
+border-top:solid 1px #fff;
+
+}
+
+/*
+ * Page bottom
+ */
+#turnkey-credit {
+display: none;
+}
+.region-bottom { /* Wrapper for any blocks placed in the page bottom region */
+}
+
+ul li.expanded {
+list-style-image: none;
+list-style-type: none;
+}
+
+.region-sidebar-first, .region-sidebar-second{
+padding-left: 0px;
+}
+
+.panel-2col-stacked .panel-col-last .inside {
+margin: 0 0 0 38px;
+}
+
+#features div.pane-content{
+	max-width: 745px;
+	overflow: hidden;
+}
+.panel-2col-stacked .panel-col-top .inside {
+margin-bottom: 0px;
+height: 30px;
+}
+.panel-2col-stacked .panel-col-first .inside {
+margin: 29px 0px;
+}
+/*
+ *	Slideshow CSS - Galleria!!--------------->>>>>>>>
+ */
+ .Xgalleria-container {
+overflow: visible;
+width:745px !important;
+}
+.Xgalleria-stage {
+width: 80%;
+}
+.Xgalleria-thumbnails-container {
+height: 50px;
+top: 8px;
+position: absolute;
+left: 688px;
+z-index: 2;
+}
+.Xgalleria-thumbnails, .galleria-thumbnails-list{
+	overflow:visible !important;
+}
+.Xgalleria-thumbnails{
+	width:34px !important;
+}
+.Xgalleria-thumb-nav-left, .galleria-thumb-nav-right {
+	display: none !important;
+}
+
+.Xgalleria-image img {
+width: 745px !important;
+height: 305px !important;
+}
+
+.galleria-info-link, .galleria-info-close, .galleria-counter {
+	display: none !important;
+}
+
+.galleria-container {
+	background: #eeeee !important;
+}
+
+.galleria-thumbnails .galleria-image {
+    height: 40px;
+    width: 60px;
+    background: #000;
+    margin: 0 5px 0 0;
+    border: none;
+    float: left;
+    cursor: pointer;
+}
+
+.galleria-carousel .galleria-thumb-nav-left, .galleria-carousel .galleria-thumb-nav-right {
+	display: none;
+}
+
+.galleria-thumbnails-list {
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	overflow: hidden !important;
+}
+
+
+/* end of Galleria css */
+
+tr.even, tr.odd {
+background-color: none !important;
+border-bottom: none !important;
+padding:0px;
+}
+
+tr.odd {
+background-color:none !important;
+}
+
+/********  grayback text boxes start  ************/
+.clear { clear: both; }
+
+.grayback {
+font-size: 11px;
+padding: 0px;
+}
+
+.grayback .pane-content {
+	background: #e8e8e8;
+}
+.grayback ul {
+	background: none;
+	padding: 0;
+	background: #e8e8e8;
+	margin: 0px;
+}
+.grayback li {
+	width: 745px;
+	margin: 0 !important;
+	padding: 10px;
+	padding-bottom: 20px;
+}
+
+.grayback .views-field {
+	float: left;
+	width: 100%;
+	color: #77b4e7;
+	margin-bottom: 10px;
+}
+
+.view-id-_features_blocks_entertainment ul li{
+	padding:5px;
+	margin:4px !important;
+}
+.grayback .view-content {
+}
+
+.grayback .views-label, .grayback .field-content {
+}
+
+.grayback .views-label {
+	line-height: 1.5em;
+}
+
+.grayback .field-content {
+	float: left;
+	left: 40px;
+	width: 70%;
+	padding-bottom: 10px;
+	font-family: 'Conv_ClanOT-News';
+	font-size: 11px;
+	line-height: 1.5em;
+
+}
+
+/********  grayback text boxes end  ************/
+
+.content-no-title {
+	border: none;
+	padding: 0;
+	margin: 0;
+	position: relative;
+	top: 0px;
+}
+
+
+#logo {
+	margin: 30px 0px 0;
+	padding: 0;
+	background: none;
+	width: 321px;
+}
+
+
+.clear { clear: both; }
+
+
+.grayback .pane-content {
+	background: none;
+}
+.grayback ul {
+	background: none;
+	padding: 0;
+
+}
+
+#features .two-col tr {
+border-bottom: solid 1px white;
+height: 15px;
+}
+
+.grayback table {
+	border-spacing: 0px;
+	width: 745px;
+}
+
+.grayback table.two-col {
+font-size: 11px;
+padding: 0px;
+}
+
+.grayback table.two-col h4 {
+color: #223F5D;
+font-family: 'Conv_ClanOT-Medium';
+font-size: 11px;
+}
+
+.Xgrayback table.two-col td {
+vertical-align: top;
+height: 10px;
+background-color: #E8E8E8;
+border-bottom: solid 1px white;
+}
+
+.grayback .first-col {
+	width: 127px;
+	padding: 8px 20px 10px 20px;
+}
+
+.grayback .second-col {
+width: 250px;
+padding: 8px 0px 10px;
+}
+
+.grayback .third-col {
+width: 135px;
+padding: 8px 0px 10px;
+}
+
+.grayback .fourth-col {
+width: 135px;
+padding: 8px 0px 10px;
+}
+
+.grayback .views-field-field-updates-body {
+	line-height: 1.5em;
+	font-size: 11px;
+}
+
+.grayback .field-content {
+float: left;
+left: 40px;
+width: 100%;
+padding-bottom: 5px;
+font-family: 'Conv_ClanOT-News';
+font-size: 11px;
+line-height: 1.5em;
+}
+
