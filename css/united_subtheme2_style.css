@@ -392,6 +392,7 @@ background-color: #edb72b;
 	width: 745px;
 	padding: 0px;
 	margin: 0px 0px 30px;
+	float:left;
 }
 .content-block h2, .pane-features-food-bev-food h2{
 	text-align: right;
