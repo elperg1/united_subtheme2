@@ -318,6 +318,9 @@ margin-top: 0px;
 	width: 698px;
 	line-height: 27px;
 }
+.pane-views{
+	float:left;
+}
 #block-panels-mini-home-overlays-assembled{
 	z-index: 9;
 	top: 175px;
@@ -1132,6 +1135,11 @@ td.views-field-field-beverage-menus ul{
 
 .view-display-id-block_2 table td a{
 	color: #62a9e3;
+	font-size: 12px;
+	padding: 3px 1px;
+	margin: 0 0 23px;
+	vertical-align: top;
+	line-height: 20px;
 }
 table.cols-3 th{
 	padding: 8px 50px 0px;

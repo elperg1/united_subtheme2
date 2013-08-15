@@ -473,7 +473,7 @@ url = $.url(window.location.pathname);
 ///  slide show config
 
 
-	$(".galleria-info-description").show();
+	$(".galleria-info-text").css("display","block");
 
 // Food and Bev class addition	
 	$(".view-food-bev-blocks").first().addClass("food-bev-overview");
