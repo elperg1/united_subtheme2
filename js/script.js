@@ -479,7 +479,7 @@ url = $.url(window.location.pathname);
 	
 	$(".route-nav").parent().parent().addClass("route-nav-wrapper");
 
-	$(".view-display-id-block_2 table tr td:first-of-type").addClass("route-name");
+	$(".page-features-food-beverage-.view-display-id-block_2 table tr td:first-of-type").addClass("route-name");
 
 	
 	

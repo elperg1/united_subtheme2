@@ -924,7 +924,7 @@ display:block; 	font-size: 12px;
 }
 
 tbody {
-border: none;
+	border: none;
 }
 table.one-col, table.two-col, table.three-col, table.four-col{
 	margin: 0px;
@@ -947,6 +947,7 @@ table.three-col ul{
 table.four-col ul{
 	padding: 0px !important;
 	margin: 4px 0px 0 31px !important;
+	width:155px;
 	}
 #features .two-col tr {
 	border-bottom: solid 1px #fff;
@@ -956,7 +957,8 @@ table.four-col td{
 	vertical-align: top;
 	background-color:#e8e8e8;
 	border-bottom: solid 1px #fff;	
-	padding: 7px 0px;	
+	padding: 7px 0px;
+	width:145px;	
 }
 
 table.three-col td{
@@ -1136,6 +1138,9 @@ table.cols-3 th{
 .route-name{
 	width:340px;
 	font-family: 'Conv_ClanOT-Medium';
+}
+#features table{
+	width:745px;
 }
 #features table .pdf-icon li{
 	list-style-image: url('../images/pdf_icon.png');
@@ -1995,7 +2000,7 @@ padding: 0px;
 }
 
 .grayback .views-field {
-	
+	float:left;
 	width: 100%;
 	color: #77b4e7;
 	margin-bottom: 10px;
