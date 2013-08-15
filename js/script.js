@@ -471,7 +471,18 @@ url = $.url(window.location.pathname);
 	$(".views-field-field-tabletop table.four-col tr:gt(3)").addClass("half-width");
 
 ///  slide show config
+Galleria.run('#galleria', {
+    dataConfig: function(img) {
+        // img is now the image element
+        // the function should return an object with the new data
+        return {
+            title: $(img).attr('rel'), // sets title to "John Doe"
+            description: $(img).next('.desc').html() // sets description to "My picture"
+        };
+    }
+});
 
+	$(".galleria-info-description").show();
 
 // Food and Bev class addition	
 	$(".view-food-bev-blocks").first().addClass("food-bev-overview");

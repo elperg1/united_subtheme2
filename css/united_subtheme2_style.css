@@ -1979,8 +1979,9 @@ background-color:none !important;
 .clear { clear: both; }
 
 .grayback {
-font-size: 11px;
-padding: 0px;
+	float:left;
+	font-size: 11px;
+	padding: 0px;
 }
 
 .grayback .pane-content {
