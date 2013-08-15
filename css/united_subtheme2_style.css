@@ -393,7 +393,7 @@ background-color: #edb72b;
 	padding: 0px;
 	margin: 0px 0px 30px;
 }
-.content-block h2{
+.content-block h2, .pane-features-food-bev-food h2{
 	text-align: right;
 	color: #002244;
 	font-size: 19px;
@@ -753,13 +753,13 @@ margin: 0px 0 0;
 .view-id-home_overlay ul{
 	float: left;
 	width: 90px;
-	margin: 7px 10px 0 0;
+	margin: 19px 10px 0 0;
 	padding: 0px;
 }
 .view-id-home_overlay ul li{
 	background: #f7cf50;
 	margin: 0px 0 2px;
-	padding: 4px;
+	padding: 4px 4px 6px 10px;
 	color: #fff;
 	font-size: 11px;
 	width: 165px;
@@ -769,9 +769,9 @@ margin: 0px 0 0;
 }
 .view-id-home_overlay ul li a{
 	color: #fff;
-text-decoration: none;
-margin: 0 0 0 8px;
-font-size: 13px;
+	text-decoration: none;
+	font-size: 13px;
+	width: 159px;
 }
 .view-id-home_overlay ul li a:hover{
 	text-decoration:none;
@@ -804,6 +804,7 @@ div.view-features-menus ul, div.view-features-menus2-cabin-class-menu ul{
 	color: #002244;
 	height: 32px;
 	margin: 0px;
+	z-index: 123;
 	
 }
 div.view-features-menus-cabin-class-menu li, div.view-features-menus2-cabin-class-menu li{
@@ -938,33 +939,30 @@ table.two-col{
 } 
 table.three-col{
 	border-spacing: 0px;
-	float: left;
 	margin: 0 0 30px;
 }
 table.three-col ul{
 	padding:0px !important;
 }
+table.four-col ul{
+	padding: 0px !important;
+	margin: 4px 0px 0 31px !important;
+	}
 #features .two-col tr {
-border-bottom: solid 1px #fff;
-height: 15px;
+	border-bottom: solid 1px #fff;
+	height: 15px;
 }
 table.four-col td{
 	vertical-align: top;
 	background-color:#e8e8e8;
-	border-bottom: solid 1px #fff;
-	
-	padding: 5px 0px;
-	
+	border-bottom: solid 1px #fff;	
+	padding: 7px 0px;	
 }
-	table.four-col ul{
-	padding: 0px !important;
-	width: 114px;
-	margin: 4px 0px 0 31px !important;
-	}
+
 table.three-col td{
 	vertical-align: top;
 	background-color: #e8e8e8;
-	border-bottom: solid 1px #fff;
+	border-bottom: solid 1px #fff !important;
 	width: 191px;
 	margin: 5px 26px;
 }
@@ -985,18 +983,27 @@ table.one-col td{
 table.one-col td li, table.three-col td li, table.four-col td li{
 	vertical-align: top;
 	color: #002244;
-	font-family:'Conv_ClanOT-Medium';	
+	font-family:'Conv_ClanOT-Medium';
+	font-size: 11px;	
 }
 table.four-col td li{
-	width: 149px;
+	width: 152px;
 	padding: 8px 0px;
 	margin: 0px !important;
+}
 
+table.four-col tr.half-width td li{
+	width: 123px;
+	float: left;
+}
+table.four-col tr.half-width td.full-width li{
+	width: 323px;
+	float: left;
 }
 table.three-col td li{
-	width: 203px;
+	width: 210px;
 	padding: 8px 0px;
-	margin: 0px 33px !important;
+	margin: 0px 0px 0px 30px !important;
 }
 table.two-col td li{
 	width: 330px;
@@ -1044,6 +1051,7 @@ table.four-col h4 {
 }
 
 /* food and bev */
+
 .food-bev-overview{
 	background-color: #fff;
 }
@@ -1056,7 +1064,6 @@ td.views-field-field-beverage-menus p{
 	padding: 12px 0px 10px;
 	border-bottom: solid 1px #fff;
 	font-family:'Conv_ClanOT-News';
-
 }
 td.views-field-field-beverage-menus ul{
 	margin:10px;
@@ -1064,6 +1071,83 @@ td.views-field-field-beverage-menus ul{
 .views-field views-field-field-special-menus ul{
 	margin:10px;
 }
+
+
+/* -- Chef Tips Section --*/
+
+.view-display-id-block_2 .view-header h3{
+	background-color: #7c848a;
+	padding: 12px 0 14px 18px;
+	color: #fff;
+	width: 727px;
+	font-family: 'Conv_ClanOT-Medium';
+	font-size: 	15px;
+	
+}
+.view-display-id-block_2 thead{
+	color:#ccc;
+}
+.pane-features-food-bev-food h2{
+	border-top: 1px solid;
+	width: 745px;
+	padding: 10px 0px;
+}
+.view-display-id-block_2 table td{
+	font-size:15px;
+	padding: 0px 18px 5px 20px;
+	color:#042343;
+	border-bottom: solid 1px;
+}
+.view-display-id-block_2 table .views-row-last td{
+	border-bottom: none;
+}
+.route-nav-wrapper{
+	width:740px;
+	font-size: 15px;
+	height: 28px;	
+}
+.activeRoute div div a{
+	color:#62a9e3 !important;
+	text-decoration: none;
+}
+.select-region{
+	color:#67aae1;
+	float:left;
+}
+.route-nav{
+	margin:0px;
+	
+}
+.route-nav div, .route-nav ul li{
+	float:left;
+	
+}
+.route-nav ul li a{
+	margin: 0 0 0 14px;
+	color: #002244;
+}
+
+.view-display-id-block_2 table td a{
+	color: #62a9e3;
+}
+table.cols-3 th{
+	padding: 8px 50px 0px;
+}
+.route-name{
+	width:340px;
+	font-family: 'Conv_ClanOT-Medium';
+}
+#features table .pdf-icon li{
+	list-style-image: url('../images/pdf_icon.png');
+}
+#features table .xls-icon li{
+	list-style-image:url('../images/excel_icon.png');
+
+}
+
+/* --- end of Chef Tips ----*/
+
+
 .views-field-field-tabletop p{
 	padding: 0px ;
 	width: 250px;
@@ -1208,9 +1292,6 @@ td.views-field-field-beverage-menus ul{
 	border: none;
 	outline: none;
 }
-.page-features-overview-77y #features_menu, .page-features-seats-77y #features_menu{
-	display: none;
-}
 #features table p{
 	color:#002244;
 	font-family: 'Conv_ClanOT-News';
@@ -1259,7 +1340,7 @@ td.views-field-field-beverage-menus ul{
 #block-menu-menu-left-margin-menu ul.menu{ /* Main Nav */
 	left: 0;
 	position: absolute;
-	top: 1px;
+	top: 0px;
 	width: 40px;
 	background-color: #62a9e3;
 	height: 101%;
@@ -1357,7 +1438,6 @@ a , li {outline:none;}
 .toolpiece{
 	height:60px;
 	background-repeat:no-repeat;
-
 	width: 100%;
 	border-bottom:solid 1px #fff;
 }
@@ -1375,24 +1455,28 @@ a , li {outline:none;}
 	padding: 5px;
 	color: #002244;
 }
-.config-menu ul:hover li{
-	background: none;
-}
 .config-menu ul{
 	width: 100px;
 	margin: 0 0 0 632px !important;
 	position: absolute;
 	top: 82px;
 }
-
 .config-menu ul li{
 	background: #fff;
 	padding-right: 20px;
 	border: 1px solid #62a9e3;
 	width: 100px;
 	padding: 5px;
-    display: none;
+	display: none;
+	z-index: 123;
 }
+/* Quik fix to hide config dropdown-------
+.page-features-overview-77y .config-menu ul, .page-features-seats-77y .config-menu ul, .page-features-galleys-77y .config-menu ul, .page-features-lavatories-77y .config-menu ul, .page-features-entertainment-77y .config-menu ul, .page-features-food-beverage-77y .config-menu ul, .page-features-tabletop-77y .config-menu ul, .page-features-sleeping-77y .config-menu ul, .page-features-amenity-kits-77y .config-menu ul{
+	display: none;
+	}
+	*/
+
+
 .config-menu ul li a{
 	color:#002244;
 	text-decoration: none;
@@ -1800,7 +1884,6 @@ margin: 0 0 0 38px;
 
 #features div.pane-content{
 	max-width: 745px;
-	overflow: hidden;
 }
 .panel-2col-stacked .panel-col-top .inside {
 margin-bottom: 0px;
@@ -1808,6 +1891,7 @@ height: 30px;
 }
 .panel-2col-stacked .panel-col-first .inside {
 margin: 29px 0px;
+width: 745px;
 }
 /*
  *	Slideshow CSS - Galleria!!--------------->>>>>>>>
@@ -1843,6 +1927,10 @@ height: 305px !important;
 
 .galleria-info-link, .galleria-info-close, .galleria-counter {
 	display: none !important;
+}
+
+#caption-test .galleria-info-link, #caption-test .galleria-info-close, #caption-test .galleria-counter {
+	display: block !important;
 }
 
 .galleria-container {
@@ -1907,7 +1995,7 @@ padding: 0px;
 }
 
 .grayback .views-field {
-	float: left;
+	
 	width: 100%;
 	color: #77b4e7;
 	margin-bottom: 10px;
@@ -1928,7 +2016,7 @@ padding: 0px;
 }
 
 .grayback .field-content {
-	float: left;
+
 	left: 40px;
 	width: 70%;
 	padding-bottom: 10px;
@@ -2023,7 +2111,7 @@ padding: 8px 0px 10px;
 }
 
 .grayback .field-content {
-float: left;
+float: none !important;
 left: 40px;
 width: 100%;
 padding-bottom: 5px;
