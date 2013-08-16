@@ -1090,6 +1090,24 @@ td.views-field-field-beverage-menus ul{
 	font-size: 	15px;
 	
 }
+#features .menus-header, #features .chef-tip-menus-header{
+	z-index: 122;
+	margin: -35px 0 0 342px;
+	color: #fff;
+	width: 727px;
+	font-family: 'Conv_ClanOT-Medium';
+	font-size: 12px;
+	line-height: 29px;
+	float: left;
+	
+}
+#features .menus-header{
+	padding: 0 26px 0;
+}
+ #features .chef-tip-menus-header{
+	 padding:0 212px 0;
+ }
+
 .view-display-id-block_2 thead{
 	color:#ccc;
 }
@@ -1132,8 +1150,21 @@ td.views-field-field-beverage-menus ul{
 	margin: 0 0 0 14px;
 	color: #002244;
 }
+.view-id-features_food_bev_food.view-display-id-block_2{
+	
+}
+.view-id-features_food_bev_food.view-display-id-block_2 .view-header{
+	
+}
+.view-id-features_food_bev_food.view-display-id-block_2 .view-header h3{
+	
+}
+.view-id-features_food_bev_food.view-display-id-block_2 .view-content table{
+	width:745px;
+}
 
-.view-display-id-block_2 table td a{
+
+.view-id-features_food_bev_food.view-display-id-block_2 table td a{
 	color: #62a9e3;
 	font-size: 12px;
 	padding: 3px 1px;
@@ -1141,22 +1172,25 @@ td.views-field-field-beverage-menus ul{
 	vertical-align: top;
 	line-height: 20px;
 }
-table.cols-3 th{
+.view-id-features_food_bev_food.view-display-id-block_2 table.cols-3 th{
 	padding: 8px 50px 0px;
 }
 .route-name{
 	width:340px;
 	font-family: 'Conv_ClanOT-Medium';
 }
-#features table{
+.view-id-features_food_bev_food.view-display-id-block_2 table.cols-3{
 	width:745px;
+	
+}
+.view-id-features_food_bev_food.view-display-id-block_2 td.first-cell{
+	width:310px;
 }
 #features table .pdf-icon li{
 	list-style-image: url('../images/pdf_icon.png');
 }
 #features table .xls-icon li{
 	list-style-image:url('../images/excel_icon.png');
-
 }
 
 /* --- end of Chef Tips ----*/

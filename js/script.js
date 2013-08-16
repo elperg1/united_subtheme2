@@ -464,6 +464,8 @@ url = $.url(window.location.pathname);
 
 	$('.activeConfig').prependTo('.config-menu ul');
 	
+	$(".views-row-first td:first-child").addClass("first-cell");
+	
 	
 // Tabletop table fix
 //( $("ul li:nth-last-of-type(2)")
