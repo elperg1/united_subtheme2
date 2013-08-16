@@ -833,14 +833,14 @@ padding: 0 0 0 0px;
 }
 ul#aircraft-class-selection li, div.view-features-menus2-cabin-class-menu li{
 	background-color: #7c848a;
-float: left;
-border: solid 1px #fff;
-padding: 7px 27px 0px 5px;
-font-size: 15px;
-height: 32px;
-position: relative;
-text-align: left;
-max-width: 152px;
+	float: left;
+	border: solid 1px #fff;
+	padding: 7px 27px 0px 5px;
+	font-size: 15px;
+	height: 26px;
+	position: relative;
+	text-align: left;
+	max-width: 152px;
 	}
 div.view-features-menus2-cabin-class-menu li:hover{
 	background-color: #edb72b;
@@ -849,10 +849,13 @@ ul#aircraft-class-selection li a, div.view-features-menus2-cabin-class-menu li a
 	text-decoration: none;
 	color: #fff;
 	position: absolute;
-	top: 25%;
-	text-align: center;
-	width: 177px;
+	vertical-align: top;
 	font-size: 15px;
+	padding: 5px 4px 12px 16px;
+	line-height: 21px;
+	top: 1px;
+	width: 163px;
+	left: 1px;
 }
 ul#aircraft-class-selection li.ui-state-active{
 	background-color:#62a9e3;
@@ -1087,7 +1090,7 @@ td.views-field-field-beverage-menus ul{
 	color: #fff;
 	width: 727px;
 	font-family: 'Conv_ClanOT-Medium';
-	font-size: 	15px;
+	font-size: 13px;
 	
 }
 #features .menus-header, #features .chef-tip-menus-header{
@@ -1095,7 +1098,7 @@ td.views-field-field-beverage-menus ul{
 	margin: -35px 0 0 342px;
 	color: #fff;
 	width: 727px;
-	font-family: 'Conv_ClanOT-Medium';
+	font-family: 'Conv_ClanOT-Book';
 	font-size: 12px;
 	line-height: 29px;
 	float: left;
@@ -1116,11 +1119,13 @@ td.views-field-field-beverage-menus ul{
 	width: 745px;
 	padding: 10px 0px;
 }
-.view-display-id-block_2 table td{
-	font-size:15px;
+.view-id-features_food_bev_food.view-display-id-block_2 table td{
+	font-size:11px;
 	padding: 0px 18px 5px 20px;
 	color:#042343;
 	border-bottom: solid 1px;
+	font-family: 'Conv_ClanOT-Medium';
+	
 }
 .view-display-id-block_2 table .views-row-last td{
 	border-bottom: none;
@@ -1128,7 +1133,8 @@ td.views-field-field-beverage-menus ul{
 .route-nav-wrapper{
 	width:740px;
 	font-size: 15px;
-	height: 28px;	
+	height: 28px;
+	font-family: 'Conv_ClanOT-Book';	
 }
 .activeRoute div div a{
 	color:#62a9e3 !important;
@@ -1168,9 +1174,8 @@ td.views-field-field-beverage-menus ul{
 	color: #62a9e3;
 	font-size: 12px;
 	padding: 3px 1px;
-	margin: 0 0 23px;
+	margin: 0 0 14px;
 	vertical-align: top;
-	line-height: 20px;
 }
 .view-id-features_food_bev_food.view-display-id-block_2 table.cols-3 th{
 	padding: 8px 50px 0px;
@@ -1471,18 +1476,17 @@ a , li {outline:none;}
 		font-weight:500;
 		font-size: 14px;
 		background: none;
-	}
+}
 #secondary-menu .ui-state-active, #secondary-menu .ui-state-focus{
 		color: #edb72b;
 		background: none;
-		}
+}
 .ui-widget-content a{
 	color: #fff;
 	border:none;
 	background: none;
 	text-decoration: none;
 }
-
 .toolpiece{
 	height:60px;
 	background-repeat:no-repeat;
@@ -1492,15 +1496,10 @@ a , li {outline:none;}
 .toolpiece:hover;{
 	background-color:#647d8f;
 }
-
-
 .config-menu ul li.activeConfig{
 	background: #fff url("../images/arrow-dropdown.gif") no-repeat scroll 84px 6px;
 	display: block;
-	padding-right: 20px;
 	border: 1px solid #62a9e3;
-	width: 100px;
-	padding: 5px;
 	color: #002244;
 }
 .config-menu ul{
@@ -1527,7 +1526,11 @@ a , li {outline:none;}
 
 .config-menu ul li a{
 	color:#002244;
-	text-decoration: none;
+	text-decoration: none;	
+	padding: 1px;
+}
+a{
+	display: block;
 }
 .config-menu ul li:hover{
 	background: #51abe4;	     
@@ -1815,6 +1818,7 @@ dt{
 	color: #75b3e6;
 	font-size: 12px;
 	text-decoration: none;
+	display: inline;
 }
 
 
