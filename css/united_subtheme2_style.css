@@ -434,6 +434,7 @@ background-color: #edb72b;
  .views-field-field-updates-feature a{
 	color:#223f5d;
 	text-decoration: none;
+	display: inline;
 }
 .views-field-field-updates-body{
 	color:#223f5d;
@@ -468,6 +469,7 @@ background-color: #edb72b;
 }
 #features{
 	font-size: 11px;
+	padding-bottom: 30px;
 }
 .section-features .section{
 	margin: 0 0 0 90px;
@@ -809,7 +811,7 @@ div.view-features-menus ul, div.view-features-menus2-cabin-class-menu ul{
 	height: 32px;
 	margin: 0px;
 	z-index: 123;
-	
+	width:745px;
 }
 div.view-features-menus-cabin-class-menu li, div.view-features-menus2-cabin-class-menu li{
 	width: 162px;
@@ -1396,7 +1398,7 @@ td.views-field-field-beverage-menus ul{
 	top: 0px;
 	width: 40px;
 	background-color: #62a9e3;
-	height: 101%;
+	height: 102%;
 	outline: none;
 	padding-top: 48px;
 	z-index: 12;
@@ -1512,8 +1514,8 @@ a , li {outline:none;}
 	background: #fff;
 	padding-right: 20px;
 	border: 1px solid #62a9e3;
-	width: 100px;
-	padding: 5px;
+	width: 108px;
+	padding: 0;
 	display: none;
 	z-index: 123;
 }
@@ -1525,9 +1527,11 @@ a , li {outline:none;}
 
 
 .config-menu ul li a{
-	color:#002244;
-	text-decoration: none;	
-	padding: 1px;
+	color: #002244;
+	text-decoration: none;
+	line-height: 18px;
+	padding: 3px 12px;
+	width: 84px;
 }
 a{
 	display: block;

@@ -398,7 +398,7 @@ url = $.url(window.location.pathname);
  
  var linkLevel =  url.segment(2);
  
- 		//console.log( "url section is " + linkLevel )
+ 		console.log( "url section is " + linkLevel )
  
  	         $('#features_menu a').each(function () {
                  
@@ -408,13 +408,20 @@ url = $.url(window.location.pathname);
                     
                  if(linkLevel == getElementUrl ) {
                      $(this).children().addClass('active');
-                 }
+                     }  
+                 
+                  if(linkLevel === "amenity-kits" ) {
+                     $(".view-features-menus2-cabin-class-menu li").remove(".views-row-3");
+                     $(".view-features-menus2-cabin-class-menu li").remove(".views-row-4");
+                     }
+              
              });
       
+             
 
   var aircraftType =  url.segment(4);
  
- 	console.log( "aircraft congfig URL is " + aircraftType );
+ 	//console.log( "aircraft congfig URL is " + aircraftType );
  	
  	        // now grab every link from the navigation
         $('#features div.config-menu ul li div div a').each(function(){
@@ -422,13 +429,16 @@ url = $.url(window.location.pathname);
 
            var getElementUrl = $(this).attr('href').split('/')[4];
                    
-                  console.log( "the config-type links = " + getElementUrl );
+                 // console.log( "the config-type links = " + getElementUrl );
                     
                  if(aircraftType == getElementUrl ) {
                 $(this).parent().parent().parent().addClass('activeConfig');
             }
 
 });
+        
+ 
+ 
 
 /* Gallerias slideshow fixins
 	Galleria.run('#galleria-1', {
